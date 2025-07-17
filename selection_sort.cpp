@@ -11,7 +11,6 @@ const string filename = "instancias-num/num.100000.4.in"; // alterar
 int main() {
     
     ifstream inFile(filename);
-
     
     vector<int> data;
     int num;
@@ -21,10 +20,8 @@ int main() {
     }
     inFile.close();
 
-    
     auto start = chrono::high_resolution_clock::now();
 
-    
     for (int i = 0; i < data.size() - 1; ++i) {
         int aux = i;
         for (int j = i + 1; j < data.size(); ++j) {
@@ -34,7 +31,6 @@ int main() {
         }
         swap(data[i], data[aux]);
     }
-
 
     auto end = chrono::high_resolution_clock::now();
     chrono::duration<double> duration = end - start;
