@@ -1,0 +1,50 @@
+Esse é o .txt com os resultados. Daqui pra baixo todos os dados são salvos a partir dos algoritmos em cima dos arquivos de teste;
+
+Arquivo instancias-num/num.1000.1.in:
+insertionSort: 0.00128505 segundos
+selectionSort: 0.00228476 segundos
+
+Arquivo instancias-num/num.1000.2.in:
+insertionSort: 0.00115803 segundos
+selectionSort: 0.00226411 segundos
+
+Arquivo instancias-num/num.1000.3.in:
+insertionSort: 0.00122267 segundos
+selectionSort: 0.00240932 segundos
+
+Arquivo instancias-num/num.1000.4.in:
+insertionSort: 8.4e-08 segundos
+selectionSort: 1.05e-07 segundos
+
+Arquivo instancias-num/num.10000.1.in:
+insertionSort: 0.115311 segundos
+selectionSort: 0.233034 segundos
+
+Arquivo instancias-num/num.10000.2.in:
+insertionSort: 0.116644 segundos
+selectionSort: 0.222465 segundos
+
+Arquivo instancias-num/num.10000.3.in:
+insertionSort: 0.125343 segundos
+selectionSort: 0.229478 segundos
+
+Arquivo instancias-num/num.10000.4.in:
+insertionSort: 8.6e-08 segundos
+selectionSort: 9.4e-08 segundos
+
+Arquivo instancias-num/num.100000.1.in:
+insertionSort: 12.5184 segundos
+selectionSort: 22.745 segundos
+
+Arquivo instancias-num/num.100000.2.in:
+insertionSort: 12.422 segundos
+selectionSort: 22.6763 segundos
+
+Arquivo instancias-num/num.100000.3.in:
+insertionSort: 11.9893 segundos
+selectionSort: 22.1369 segundos
+
+Arquivo instancias-num/num.100000.4.in:
+insertionSort: 2.36e-07 segundos
+selectionSort: 2.76e-07 segundos
+
